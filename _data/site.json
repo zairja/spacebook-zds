@@ -15,5 +15,5 @@
   "description": "A nice place to grow",
   "enableContact": false,
   "enableNetlifyCMS": true,
-  "enableEditButton": true
+  "enableEditButton": false
 }
