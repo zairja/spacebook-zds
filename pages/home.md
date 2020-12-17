@@ -7,7 +7,6 @@ eleventyNavigation:
   key: Home
   title: What it is
   order: 0
-  parent: " "
 ---
 Create your own spacebook exactly like this one and customize it to your needs. Spacebooks are speedy to set up, free, and 100% open source.
 
